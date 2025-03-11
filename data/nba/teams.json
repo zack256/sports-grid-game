@@ -1,0 +1,152 @@
+[
+    {
+        "abbreviation": "ATL",
+        "location": "Atlanta",
+        "name": "Hawks"
+    },
+    {
+        "abbreviation": "BOS",
+        "location": "Boston",
+        "name": "Celtics"
+    },
+    {
+        "abbreviation": "BKN",
+        "location": "Brooklyn",
+        "name": "Nets"
+    },
+    {
+        "abbreviation": "CHA",
+        "location": "Charlotte",
+        "name": "Hornets"
+    },
+    {
+        "abbreviation": "CHI",
+        "location": "Chicago",
+        "name": "Bulls"
+    },
+    {
+        "abbreviation": "CLE",
+        "location": "Cleveland",
+        "name": "Cavaliers"
+    },
+    {
+        "abbreviation": "DAL",
+        "location": "Dallas",
+        "name": "Mavericks"
+    },
+    {
+        "abbreviation": "DEN",
+        "location": "Denver",
+        "name": "Nuggets"
+    },
+    {
+        "abbreviation": "DET",
+        "location": "Detroit",
+        "name": "Pistons"
+    },
+    {
+        "abbreviation": "GSW",
+        "location": "Golden State",
+        "name": "Warriors"
+    },
+    {
+        "abbreviation": "HOU",
+        "location": "Houston",
+        "name": "Rockets"
+    },
+    {
+        "abbreviation": "IND",
+        "location": "Indiana",
+        "name": "Pacers"
+    },
+    {
+        "abbreviation": "LAC",
+        "location": "Los Angeles",
+        "name": "Clippers"
+    },
+    {
+        "abbreviation": "LAL",
+        "location": "Los Angeles",
+        "name": "Lakers"
+    },
+    {
+        "abbreviation": "MEM",
+        "location": "Memphis",
+        "name": "Grizzlies"
+    },
+    {
+        "abbreviation": "MIA",
+        "location": "Miami",
+        "name": "Heat"
+    },
+    {
+        "abbreviation": "MIL",
+        "location": "Milwaukee",
+        "name": "Bucks"
+    },
+    {
+        "abbreviation": "MIN",
+        "location": "Minnesota",
+        "name": "Timberwolves"
+    },
+    {
+        "abbreviation": "NOP",
+        "location": "New Orleans",
+        "name": "Pelicans"
+    },
+    {
+        "abbreviation": "NYK",
+        "location": "New York",
+        "name": "Knicks"
+    },
+    {
+        "abbreviation": "OKC",
+        "location": "Oklahoma City",
+        "name": "Thunder"
+    },
+    {
+        "abbreviation": "ORL",
+        "location": "Orlando",
+        "name": "Magic"
+    },
+    {
+        "abbreviation": "PHI",
+        "location": "Philadelphia",
+        "name": "76ers"
+    },
+    {
+        "abbreviation": "PHX",
+        "location": "Phoenix",
+        "name": "Suns"
+    },
+    {
+        "abbreviation": "POR",
+        "location": "Portland",
+        "name": "Trail Blazers"
+    },
+    {
+        "abbreviation": "SAC",
+        "location": "Sacramento",
+        "name": "Kings"
+    },
+    {
+        "abbreviation": "SAS",
+        "location": "San Antonio",
+        "name": "Spurs"
+    },
+    {
+        "abbreviation": "TOR",
+        "location": "Toronto",
+        "name": "Raptors"
+    },
+    {
+        "abbreviation": "UTA",
+        "location": "Utah",
+        "name": "Jazz"
+    },
+    {
+        "abbreviation": "WAS",
+        "location": "Washington",
+        "name": "Wizards"
+    }
+]
